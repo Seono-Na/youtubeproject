@@ -22,9 +22,7 @@ export default function SearchHeader() {
           type="text"
           placeholder="Search.."
           value={text}
-          onChange={(e) => {
-            setText(e.target.value);
-          }}
+          onChange={(e) => setText(e.target.value)}
         />
         <BsSearch />
       </form>
