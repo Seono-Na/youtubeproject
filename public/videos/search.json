@@ -1,861 +1,855 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KJaF0_8ioyxQlvUBPj4SfxTuV7U",
+  "etag": "7bkJ8eq-wO2tAiS71e4TZLafM0I",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 1000000,
+    "totalResults": 38126,
     "resultsPerPage": 25
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "sLCOefK0WLy2mPq9tumkpnNOjVA",
+      "etag": "8PlmUe1Gu6U-GPiZ_TG7RZHN-bY",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "OTWYsXF99iY"
+        "kind": "youtube#channel",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T11:30:05Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "British Highschoolers try School Lunch in Korea!!",
-        "description": "While visiting Korea and having the time of their lives, we also wanted to give the boys an experience of what the lives of High ...",
+        "publishedAt": "2016-08-07T10:23:41Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "ITSub잇섭",
+        "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. 테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다 #전자기기 #IT이슈 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/default.jpg",
-            "width": 120,
-            "height": 90
+            "url": "https://yt3.ggpht.com/ytc/APkrFKYQd0qp4APkQrgHyjDnuDODqHPbVsWiEBMGTfUNlg=s88-c-k-c0xffffffff-no-rj-mo"
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+            "url": "https://yt3.ggpht.com/ytc/APkrFKYQd0qp4APkQrgHyjDnuDODqHPbVsWiEBMGTfUNlg=s240-c-k-c0xffffffff-no-rj-mo"
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+            "url": "https://yt3.ggpht.com/ytc/APkrFKYQd0qp4APkQrgHyjDnuDODqHPbVsWiEBMGTfUNlg=s800-c-k-c0xffffffff-no-rj-mo"
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T11:30:05Z"
+        "publishTime": "2016-08-07T10:23:41Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JXvNUyqCr1dsDul2c9Z1oJhO-hQ",
+      "etag": "FKW5f-jlzkOuGH2UJ7gfQjnn9jY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xNkMbGrUdqU"
+        "videoId": "HCzh_pMAbeg"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:38:06Z",
-        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
-        "title": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23",
-        "description": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23 #대한축구협회 공식 채널 대한민국 축구 ...",
+        "publishedAt": "2023-10-29T11:30:07Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "깃털처럼 미치도록 가벼운 현존 끝판왕! 초경량 무선 게이밍 마우스 2대장 사용기",
+        "description": "게이밍 마우스 중 세상에서 가장 가벼우면서 인기많은 마우스가 2종 있습니다. 오랫동안 꾸준히 인기를 얻고있는 로지텍의 지슈라.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/default.jpg",
+            "url": "https://i.ytimg.com/vi/HCzh_pMAbeg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HCzh_pMAbeg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HCzh_pMAbeg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:38:06Z"
+        "publishTime": "2023-10-29T11:30:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yteWjK0XHj2lht_OqEfGI3-pq00",
+      "etag": "pH8z0b8iY72VN7qzysFV8hfOo1A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IrRFh1dLRQM"
+        "videoId": "__f-1vxPU9k"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:20Z",
-        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
-        "title": "코스타리카전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 코스타리카 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
-        "description": "대한민국 2 - 2 코스타리카 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
+        "publishedAt": "2023-10-15T11:30:13Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "미친 ㅋㅋ 알리에서 손바닥만한 초저렴 미니PC를 샀는데...이게 왜 쓸만하지?",
+        "description": "요새 미니PC에 맛들려서 이것저것 사보고 있다가 이 녀석이 눈에 띄길래 일단 지르고 생각해 봤습니다. 램이나 SSD는 따로 구입해야 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/default.jpg",
+            "url": "https://i.ytimg.com/vi/__f-1vxPU9k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/__f-1vxPU9k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/__f-1vxPU9k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "쿠팡플레이 Coupang Play",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:20Z"
+        "publishTime": "2023-10-15T11:30:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BIEhp-00sfG0HabrdNAj83L5bYM",
+      "etag": "VD9wWH_F_MpS5-nA9hAmg0aqDzs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mPq9PAZM43M"
+        "videoId": "wRyjCWpC8Us"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:57:34Z",
-        "channelId": "UCY_WNRa7H0P420fJkOFovtQ",
-        "title": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022",
-        "description": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022 1-0 H. Hee-chan 28' 2-0 J. Bennette 41' 2-1 J. Bennette 64' 2-2 S.",
+        "publishedAt": "2023-10-23T11:00:46Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "이번엔 제발 참으세요. 애플워치 시리즈9 언빡싱&amp;새로운 더블탭 제스처 미리보기와 달라진점?",
+        "description": "아이폰 15 출시와 동시에 애플워치 시리즈9과 울트라2도 동시에 출시되었는데요, 생각보다 이번에 큰 변화점이 없어서 관심을 받지 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/default.jpg",
+            "url": "https://i.ytimg.com/vi/wRyjCWpC8Us/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wRyjCWpC8Us/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wRyjCWpC8Us/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "DEL PIERO 10",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:57:34Z"
+        "publishTime": "2023-10-23T11:00:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0TAGfPgdMc6n8zlJxeXJ-wM6CBw",
+      "etag": "NA_yJchLk3hg2QkMNFINnB9zuwQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ko1bqasNDls"
+        "videoId": "f7eDUvXq0QY"
       },
       "snippet": {
-        "publishedAt": "2018-12-16T12:47:18Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "South Korea 4K. Interesting Facts About South Korea",
-        "description": "South Korea is one of the most developed countries today. Lets take a tour of Korea and see modern Korean cities. Seoul, Busan ...",
+        "publishedAt": "2023-10-21T11:00:34Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "애플의 배짱장사 시동거나요... 새로나온 애플펜슬 USB-C 황당합니다 ㅋㅋ",
+        "description": "이타이밍에 신형 아이패드가 출시될 것으로 예상했으나, 갑분 등장해버린 새로운 애플펜슬 USB-C. 보통 신제품에 기대할 만한 기능이 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/default.jpg",
+            "url": "https://i.ytimg.com/vi/f7eDUvXq0QY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/f7eDUvXq0QY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/f7eDUvXq0QY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-12-16T12:47:18Z"
+        "publishTime": "2023-10-21T11:00:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-WBBf5ZALtk3cXr0FsaI5CPciVk",
+      "etag": "8wd5ngcSRHMqpU8fo5Jt2raxxp8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Y_KWTkEqG2o"
+        "videoId": "PzkgfFgkH_Q"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T20:07:51Z",
-        "channelId": "UCKJtYrlWaF3G0LIneEKoPew",
-        "title": "Night Shift With the Hardest Tournament In Korea | Uprising Korea 2022: The ATP Fight Companion",
-        "description": "TEKKEN7 #Aris #TWT2022 Aris had to tap out due to the time, check out Top 3 on https://www.twitch.tv/videos/1600697972 ...",
+        "publishedAt": "2023-10-05T11:00:15Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "역대급으로 말 많은 아이폰 15 프로 &amp; 프로맥스 일주일 사용기! 사기 전에 미리 참고하세요.",
+        "description": "발표부터 말도많고 탈도많은 애플의 아이폰 15 프로 시리즈. 지난번 언빡싱과 디자인편에 이어 일주일간 사용해보며 내구성, 발열, ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/default.jpg",
+            "url": "https://i.ytimg.com/vi/PzkgfFgkH_Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzkgfFgkH_Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PzkgfFgkH_Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Avoiding The Puddle",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T20:07:51Z"
+        "publishTime": "2023-10-05T11:00:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WMrM2ghOy8F-mEdAiP1lX0p0dek",
+      "etag": "tTGyJhoppJ6cC6PO3PPWOqqP2b0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cXX5J3rHjHk"
+        "videoId": "GtWhC-ITUsI"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T03:09:45Z",
-        "channelId": "UCtKKtyxOmmt60A2-pp0B1cw",
-        "title": "There are some things about Korea in the Tower of London?, Tower of London, Queen, AMWF, Couple",
-        "description": "toweroflondon #queenelizabeth #amwf.",
+        "publishedAt": "2023-09-28T05:00:08Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "형보다 괜찮은 아우? 애플 아이폰 15 달라진 핵심기능 7가지!",
+        "description": "아이폰 15 시리즈가 10월 13일 한국 정발한다는 소식과 함께, 이번에 발표된 신 모델중 대폭 업그레이드 그리고 가성비를 챙겨 의외로 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/GtWhC-ITUsI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GtWhC-ITUsI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GtWhC-ITUsI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "브리티쉬 새댁 : BRITISH WIFE",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T03:09:45Z"
+        "publishTime": "2023-09-28T05:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VhPanuQC4a0QcSr88ZmWldTTvnE",
+      "etag": "FxSlurybCk8bCyLM5Win_jRN0KM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "poHTA94-BeY"
+        "videoId": "IFcQUNCWl0s"
       },
       "snippet": {
-        "publishedAt": "2022-09-21T15:00:28Z",
-        "channelId": "UCn8zNIfYAQNdrFRrr8oibKw",
-        "title": "What North Korea Doesn’t Want You To See | Super Users",
-        "description": "Blogger Jacob Bogle often receives this warning, “State-sponsored actors are attempting to hack into your account.” It's all ...",
+        "publishedAt": "2023-09-13T08:30:13Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "새로 공개된 애플 아이폰 15&amp;15 프로 총정리! 미국 현지에서 직접 경험한 느낌은?",
+        "description": "2023년 9월 13일. 애플의 새로운 아이폰 15 시리즈가 드디어!!! 공개되었습니다. 수 많은 루머와 함께 기다리며 새로운 제품을 미국 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/default.jpg",
+            "url": "https://i.ytimg.com/vi/IFcQUNCWl0s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IFcQUNCWl0s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IFcQUNCWl0s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "VICE",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-21T15:00:28Z"
+        "publishTime": "2023-09-13T08:30:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rGmZBOTYAjhr2P9WvyJ0nH9N-dU",
+      "etag": "t-3FabV7os6CTPsHI6ZpiRDRlqE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yICHjopBVT0"
+        "videoId": "dZ9eDWHhUDo"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:34Z",
-        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-        "title": "US aircraft carrier arrives at naval base in South Korea&#39;s Busan",
-        "description": "US aircraft carrier USS Ronald Reagan has arrived at a naval base in South Korea's southern port city of Busan. Officials in Seoul ...",
+        "publishedAt": "2023-10-17T11:30:19Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "한국 가격이 제일 저렴한 기현상?? 새로나온 보스(BOSE) QC 울트라 노캔 헤드폰 사용기!",
+        "description": "당시 착용감과 노캔 끝판왕으로 불린 QC35의 후속작을 7년간 기다린 끝에 신제품이 출시했습니다. 새로운 QC 울트라는 디자인부터 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/default.jpg",
+            "url": "https://i.ytimg.com/vi/dZ9eDWHhUDo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dZ9eDWHhUDo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dZ9eDWHhUDo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CNA",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:34Z"
+        "publishTime": "2023-10-17T11:30:19Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "47b4-JmLcO11LACaUuRS7IK72K4",
+      "etag": "k7095QF6dLj_AE8B9j1nsB5Jw8E",
       "id": {
         "kind": "youtube#video",
-        "videoId": "udtN3czhkA8"
+        "videoId": "sHNvPosQbCo"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:00:31Z",
-        "channelId": "UCa-DreapaYm4Roo0CfUBGQg",
-        "title": "bye seoul ✨ a day of my life in korea ☕ cafe hopping in daejeon, a little trip out of seoul vlog",
-        "description": "Head to https://squarespace.com/caricakes to save 10% off your first purchase of a website or domain using code CARICAKES ...",
+        "publishedAt": "2023-09-23T12:15:04Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "티타늄 컬러 내 선택은? 아이폰 15 프로&amp;프로맥스 단순 언빡싱! (Feat.케이스티파이)",
+        "description": "아직 한국 정발 전, 새로운 아이폰 15 프로 시리즈를 구입하실분들을 위해 어떠한 컬러를 구입해야할지 많이 고민하시는 것 같아 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/default.jpg",
+            "url": "https://i.ytimg.com/vi/sHNvPosQbCo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sHNvPosQbCo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sHNvPosQbCo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "cari cakes",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:00:31Z"
+        "publishTime": "2023-09-23T12:15:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "g9BlAPsYE79_C_3JgqCGB_AEpWQ",
+      "etag": "PaxmW7v36iuo4V99okbwN7_MYPA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "3P1CnWI62Ik"
+        "videoId": "wd8QIHhvjT0"
       },
       "snippet": {
-        "publishedAt": "2020-07-30T05:46:28Z",
-        "channelId": "UChhOtjq-3QyyLmP2jv9amrg",
-        "title": "Feel the Rhythm of KOREA: SEOUL",
-        "description": "Enjoy wonderful attractions of South Korea with a lively, rhythmic sound! Korean Tourism Organization collaborated with an ...",
+        "publishedAt": "2023-10-27T11:00:58Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "과연 아이폰15 프로로 별 사진 찍을 수 있을까?? 갤럭시 S23U와 비교해봄!",
+        "description": "스마트폰으로 과연 별 사진을 찍을 수 있을까요? 요즘은 핸드폰 카메라도 성능이 매우 좋아지기도했고, 한번쯤은 찍어보고 싶었던 별 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/default.jpg",
+            "url": "https://i.ytimg.com/vi/wd8QIHhvjT0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wd8QIHhvjT0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wd8QIHhvjT0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Imagine Your Korea",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-30T05:46:28Z"
+        "publishTime": "2023-10-27T11:00:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ru_YTz8hyk0F8R8wB7T09knh_jI",
+      "etag": "cIbZ6CsmrnrRPOmY8HC18SJ5s40",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4uqoz7xIf6o"
+        "videoId": "JSOcCrRcm1k"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T12:58:56Z",
-        "channelId": "UCydi_iDuARZqbC0vYpGhfsQ",
-        "title": "South Korea vs Costa Rica 2-2 Extеndеd Hіghlіghts &amp; Gоals 2022 HD",
-        "description": "Korea#CostaRica#SoonGoal.",
+        "publishedAt": "2023-10-25T11:15:03Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "미쳤다. 아이폰 통화녹음 정식 출시!! 온갖 기능 싹다 써본 나의 생각과 장단점 분석?",
+        "description": "저번에 간략하게 소개했었던 아이폰 통화녹음 소식.. 생각보다 더 빨리 오픈되었습니다 ㅎㅎㅎ 바로 써보고 여러가지 상황을 연출 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/default.jpg",
+            "url": "https://i.ytimg.com/vi/JSOcCrRcm1k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JSOcCrRcm1k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JSOcCrRcm1k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "tahahahahahbarame",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T12:58:56Z"
+        "publishTime": "2023-10-25T11:15:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GbelpdHsiy3KHvkC7zhm4QQWdzg",
+      "etag": "BxrOYa0yWAq2Se0mNAbjM0TbfV0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "UDlWtkvFYLU"
+        "videoId": "rDmvs4iaaQw"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:18:39Z",
-        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
-        "title": "North Korea fires ballistic missile towards the Sea of Japan",
-        "description": "South Korea's Joint Chiefs of Staff have announced North Korea has fired an unspecified ballistic missile towards the sea of ...",
+        "publishedAt": "2023-10-07T11:00:43Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "애플에서 긴급 패치한 iOS 17.0.3 업데이트! 아이폰 15 프로 발열이 과연 개선됐을지 직접 테스트 해봤습니다.",
+        "description": "한국 정발 전 발열 이슈로 엄청나게 뜨거워졌다는 이야기가 많았고, 애플은 공식적으로 발열 문제를 인정하며 긴급 업데이트를 진행 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/default.jpg",
+            "url": "https://i.ytimg.com/vi/rDmvs4iaaQw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rDmvs4iaaQw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rDmvs4iaaQw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Sky News Australia",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:18:39Z"
+        "publishTime": "2023-10-07T11:00:43Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YAH595UCgwnGgeFIzORsPSGF1Z8",
+      "etag": "3oaJBXfeki9gRnxEUfk_JwiRDwI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eVFMDMpY36o"
+        "videoId": "9ZRa4zHB76s"
       },
       "snippet": {
-        "publishedAt": "2020-11-21T04:43:42Z",
-        "channelId": "UCkIom4UP_2D0DXuG92vd_KQ",
-        "title": "【Seoul】 Travel Guide - Top 10 Seoul | Korea Travel | Asia Travel | Travel at home",
-        "description": "Follow us to the most beautiful places in Seoul! Have an amazing trip at home. In this video, we'll cover more than Top ...",
+        "publishedAt": "2023-09-30T11:00:05Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "찾았다 내 넷플 머신 ㅋㅋ 미친 입소문에 배송만 두달 걸리는 20만원대 샤오신패드 12.7 사용기!",
+        "description": "뜨자마자 가성비로 너무 유명해져서 받기까지 너무 오래 걸렸습니다... 그렇게 오랫동안 기다린 끝에 그렇게 가성비가 좋다는 레노버 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/default.jpg",
+            "url": "https://i.ytimg.com/vi/9ZRa4zHB76s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9ZRa4zHB76s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9ZRa4zHB76s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Before Your Trip",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-11-21T04:43:42Z"
+        "publishTime": "2023-09-30T11:00:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rAcCkuleJdI7Kwgus5cR7yUnVyo",
+      "etag": "JLEF7OLA4zbRCt5j2_oemnTfbgo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rXDoqD7FjQw"
+        "videoId": "tT3Oh-_Ew10"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T16:33:25Z",
-        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-        "title": "WION Fineprint | North Korea denies sending arms to Russia amid Ukraine war",
-        "description": "North Korea denied sending weapons to Russia, accusing the United States of spreading rumours about such a sale to tarnish ...",
+        "publishedAt": "2023-10-09T11:30:25Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "삼성 엑시노스 부활 ㅋㅋ 삼성 갤럭시 S24 시리즈 현재까지 나온 유출 총정리!",
+        "description": "벌써 점점 다가오고있는 삼성 갤럭시 S24 시리즈의 출시 시기. 대략 2~3달 사이면 새롭게 출시할 모델에 대한 유출이 점점 이루어지고 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/default.jpg",
+            "url": "https://i.ytimg.com/vi/tT3Oh-_Ew10/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tT3Oh-_Ew10/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tT3Oh-_Ew10/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "WION",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T16:33:25Z"
+        "publishTime": "2023-10-09T11:30:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ybHTGc970cUMrjeGLj8LSnXOzbA",
+      "etag": "qcyR8SArOljcoFXfN_RUBI9O3yA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "X5q0Fd_KV1w"
+        "videoId": "Q7BBkIHNn_0"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T11:09:06Z",
-        "channelId": "UC925y3Dn61A7MBXGZJWNX9A",
-        "title": "MOVING IN KOREA (+ grocery shopping)",
-        "description": "BGM sources BGM President https://www.youtube.com/c/bgmpresident 별 헤는 다락방 Starry Attic ...",
+        "publishedAt": "2023-09-25T11:00:31Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "윈도우만 평생 쓴 신입 PD님...? 영상편집에 쓰기 딱! 좋은 데스크 셋업을 맞춰드려 봤습니다!",
+        "description": "평화로운 잇튜디오에 추가채용으로 들어오신 PD님의 맥 데스크 셋업하는 날입니다. 평생을 윈도우만 쓰셨다는데 부득이하게 맥 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/default.jpg",
+            "url": "https://i.ytimg.com/vi/Q7BBkIHNn_0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Q7BBkIHNn_0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Q7BBkIHNn_0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KrisTells Vlogs",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T11:09:06Z"
+        "publishTime": "2023-09-25T11:00:31Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Fko1jl6ZczSFvLyX69dkEe9R4nI",
+      "etag": "wfpoSxjxqbHqoUAdHOPAsjb40ek",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OIGBoo2QbFM"
+        "videoId": "ZPeawyIERJU"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T09:15:00Z",
-        "channelId": "UC91JExDefknFHQ5Lqp-g_Jg",
-        "title": "[ENG] 무슨 노래 듣고 계세요? 고려대편 What Song Are You listening To? Korea University",
-        "description": "고려대학교에서 사람들에게 물어봤습니다. \"무슨 노래 듣고 계세요?\" *본 영상에서 인터뷰에 응해주신 모든 분들께는 유튜브 촬영 ...",
+        "publishedAt": "2023-10-19T11:30:14Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "뜬금없이 출시한 삼성 갤럭시 버즈 FE 언빡싱! 버즈2 대신 살만할까??",
+        "description": "갑자기 갤럭시 버즈 FE가 새로 나왔다길래 호기심에 구입해 봤습니다. 정가는 11만원 대지만 할인도 받고 증정해주는 것도 있어서 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZPeawyIERJU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZPeawyIERJU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZPeawyIERJU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "복코s",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T09:15:00Z"
+        "publishTime": "2023-10-19T11:30:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dNwGFbxrh_ZK1kG7ax2X3Byi57I",
+      "etag": "-L_rCDqzmW5iEgItbp5OdAm8y2Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jejLBWMsyHk"
+        "videoId": "RxC-0JKVZrA"
       },
       "snippet": {
-        "publishedAt": "2022-07-27T13:28:04Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "Pack your bags boys! You&#39;re going to KOREA!!!",
-        "description": "A year after a handshake and a promise… the British High schoolers are finally coming on a School Trip to Korea! 7 students.",
+        "publishedAt": "2023-10-13T11:30:10Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "현실만 살지말고 VR 좀 하세요 ㅋㅋ 새로나온 메타 퀘스트3 언빡싱&amp;첫인상!",
+        "description": "가상현실 VR이 뜨기 시작하면서 이제는 혼합현실인 MR 시대가 오나봅니다. 메타 퀘스트3가 정식으로 출시하면서 MR 장비의 보급형( ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/RxC-0JKVZrA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RxC-0JKVZrA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RxC-0JKVZrA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-27T13:28:04Z"
+        "publishTime": "2023-10-13T11:30:10Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QUOydUauRWhJhZ_1YBT7uIpreM8",
+      "etag": "lbjqjis4cD_pDjY8jrfhhtF2Rmg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4usmpuMP7R4"
+        "videoId": "xC1EQE6GQeU"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T18:17:27Z",
-        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-        "title": "U.S. aircraft carrier arrives in South Korea for first time since 2018",
-        "description": "An American aircraft carrier has arrived in South Korea for the first time in almost five years. The U.S. and South Korean navies will ...",
+        "publishedAt": "2023-10-03T11:00:52Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "레고로 내맘대로 꾸미는 기계식 키보드.. 이건 못 참습니다.",
+        "description": "레고 블록으로 꾸밀 수 있는 멜긱 픽 키보드.. 그에 맞는 비싼 가격에 고민하다가 사지는 않은 제품인데 운 좋게도 구독자 분께서 빌려 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/default.jpg",
+            "url": "https://i.ytimg.com/vi/xC1EQE6GQeU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xC1EQE6GQeU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xC1EQE6GQeU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CBS News",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T18:17:27Z"
+        "publishTime": "2023-10-03T11:00:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l8khr7AUrmkyRXFla0D5kQShrp0",
+      "etag": "SlEQ7_jTZGeXfmHmDT6kx6J-jc4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "o70MzTHHNbI"
+        "videoId": "TpWq9XqSm5g"
       },
       "snippet": {
-        "publishedAt": "2018-10-22T18:59:58Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "Seoul South Korea 4K .City - Sights - People",
-        "description": "Lets take a tour to Seoul South Korea. One of the largest cities in the world renowned for its architecture, technical advancements ...",
+        "publishedAt": "2023-10-11T11:00:22Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "20만원대 OLED 탑재로 난리난 태블릿 용팡이? &#39;이것&#39; 하나 때문에 비추하는 이유..",
+        "description": "20만원대 갓성비로 유명한 샤오신패드 12.7 리뷰 후 영상 댓글에서 일명 용팡이(?)라는 제품의 리뷰를 원하시는분들이 많았습니다.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/default.jpg",
+            "url": "https://i.ytimg.com/vi/TpWq9XqSm5g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TpWq9XqSm5g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TpWq9XqSm5g/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-10-22T18:59:58Z"
+        "publishTime": "2023-10-11T11:00:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DIgkkmzdS-cUUr86ruCcsXgRG6M",
+      "etag": "fF20Sy0PaLxMC0PNCsf41iCd3Tg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P2lhXFe8C1k"
+        "videoId": "y1xLSarZHa0"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T07:50:00Z",
-        "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
-        "title": "যৌথ সামরিক মহড়ায় দক্ষিণ কোরিয়া-যুক্তরাষ্ট্র | USA | South Korea | North Korea | Somoy TV",
-        "description": "jointexercises #usaandsouthkorea #usa #USaircraft #southkorea #northkorea #somoytv The United States is going to conduct ...",
+        "publishedAt": "2023-09-21T11:30:32Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "★경축★ 드디어 아이폰에 통화녹음 된다? 곧 정식으로 지원한다길래 야매(?)로 써봤습니다.",
+        "description": "아이폰 사용자들의 가장 큰 고민거리이자 걸림돌인 통화녹음.. 이제 서드파티나 다른 장치들을 사용하지 않고도 가능해진다고 하여 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/default.jpg",
+            "url": "https://i.ytimg.com/vi/y1xLSarZHa0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/y1xLSarZHa0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/y1xLSarZHa0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "SOMOY TV",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T07:50:00Z"
+        "publishTime": "2023-09-21T11:30:32Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "N6qCh0kjYbXxXqUHIP2huk-Qync",
+      "etag": "0C-FiNaQKCm4s__RAg5tc6LXhSw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0YZxpzrANXM"
+        "videoId": "andZAenBIyI"
       },
       "snippet": {
-        "publishedAt": "2022-09-09T09:33:00Z",
-        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
-        "title": "We went to KOREA to meet BTS 💜 Staying at KOREA&#39;S First Robot Hotel",
-        "description": "ROBOTS, TECHNOLOGY AUR BHOT SARA DHAMAAL #KOREA SUBSCRIBE!!! . . Read my travel stories: ...",
+        "publishedAt": "2023-07-26T12:00:02Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "1️⃣ 너무 예뻐서 무조건 살 겁니다. 갤럭시 Z 플립5&amp;폴드5 실물로 본 느낌은?",
+        "description": "자, 많은 분들이 기다리신 삼성의 하반기 플래그십. 플립5와 폴드5가 드디어 공개되었습니다. 이번에는 엄청나게 큰 변화는 아니지만 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/default.jpg",
+            "url": "https://i.ytimg.com/vi/andZAenBIyI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/andZAenBIyI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/andZAenBIyI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Wanderers Hub",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-09T09:33:00Z"
+        "publishTime": "2023-07-26T12:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "36aoMmq9pwSNJc9UVSAIqhkwLc4",
+      "etag": "3JWP8sgly_lkW_z51XxFai5fK6I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Wfu846Gb6Vk"
+        "videoId": "9LM4H1UpqbA"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:30:08Z",
-        "channelId": "UCttQf1sGLn5wZaaqoHam1-w",
-        "title": "The First Ever Safari Zone in South Korea is INSANE, BECAUSE... - Pokemon GO",
-        "description": "After not being able to attend any in-person events for over 2 years, finally this is not just the first Safari Zone to happen in South ...",
+        "publishedAt": "2023-09-19T12:15:01Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "살까요? 말까요? 애플워치 시리즈9&amp;울트라2 총정리! + 애플식 환경보호 이야기",
+        "description": "새로운 아이폰 15 소식에 잊혀졌던 신제품. 애플워치 시리즈도 함께 공개되었습니다. 워치도 꾸준히 인기(?) 있는 제품이라 팔고 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/default.jpg",
+            "url": "https://i.ytimg.com/vi/9LM4H1UpqbA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9LM4H1UpqbA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9LM4H1UpqbA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BrandonTan91",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:30:08Z"
+        "publishTime": "2023-09-19T12:15:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "m17Pfamo3CmEYNqg7OyGhtrf8Cg",
+      "etag": "WNHH-wICGdq0pFpJIfcuOc2fP_4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gwzO4fPkDEk"
+        "videoId": "YLRFT11vqlw"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:14:56Z",
-        "channelId": "UC5klUqmlo9G8U5iaQ53ogIA",
-        "title": "Announcing my new album, and arriving in South Korea",
-        "description": "It's my first time in South Korea and I'm absolutely loving it. I also announced my new album Future eForever in this video. If you'd ...",
+        "publishedAt": "2023-09-16T11:00:26Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "비싼 구독료를 내고도 4K를 제대로 못볼 수 있다? 현존 OTT 서비스 화질 순위 간단 테스트!",
+        "description": "외산 혹은 국산 OTT서비스가 늘어가면서 어떤 서비스가 더 좋을지 비교하기 힘든 요즘, 4K가 대중화된 시대에 제대로된 4K 콘텐츠를 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/default.jpg",
+            "url": "https://i.ytimg.com/vi/YLRFT11vqlw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YLRFT11vqlw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YLRFT11vqlw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jonathan Ogden",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:14:56Z"
+        "publishTime": "2023-09-16T11:00:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3DXONSxKDfA-3Yzj9QeyGmz_fb8",
+      "etag": "edHb73vosmUWnB5ENTsCfP_Nc_c",
       "id": {
         "kind": "youtube#video",
-        "videoId": "x6AHuxqt1U0"
+        "videoId": "WTuwB9LVxFs"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T02:00:09Z",
-        "channelId": "UCNrRJm0gWx69f8Ybdnsi23A",
-        "title": "shopping in korea vlog 🇰🇷 shoes &amp; accessories haul from Gotomall Underground Shopping Center",
-        "description": "come shopping with me! shoes & accessories haul from Gotomall Underground shopping center in Seoul. 고투몰 지하 상가 ...",
+        "publishedAt": "2023-08-26T11:00:29Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "드디어 꿈꿔왔던 형태의 태블릿이 나왔습니다!? 구글 픽셀 태블릿 첫 인상",
+        "description": "홈 IoT제어할 때 유용하게 썼던 구글 네스트 허브.. 단점은 화면이 작고 실용성이 좀 적다는 것이었는데, 태블릿 형태면서 독까지 달린 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/default.jpg",
+            "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "sassyinkorea",
+        "channelTitle": "ITSub잇섭",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T02:00:09Z"
+        "publishTime": "2023-08-26T11:00:29Z"
       }
     }
   ]
